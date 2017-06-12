@@ -28,6 +28,11 @@ side{
   padding:  10px;
 }
 
+img{
+  width:  80px;
+  height: 80px;
+}
+
 span{
   padding:  15px;
   color:    red;
